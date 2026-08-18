@@ -1,0 +1,7 @@
+bcrypt==5.0.0
+fastapi==0.104.1
+psutil==5.9.8
+pydantic==2.13.4
+PyJWT==2.8.1
+starlette==0.27.0
+uvicorn==0.24.0
